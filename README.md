@@ -4,7 +4,7 @@ An intelligent phishing detection system built with Machine Learning and
 adversarial testing using Google Gemini AI.
 
 ## 🔗 Live Demo
-👉 [Click here to try it live](YOUR_STREAMLIT_LINK_HERE)
+👉 [Click here to try it live](https://ai-phishing-detectorgit-4xllpby9fyencqkzp2ioax.streamlit.app/)
 
 ## 📊 Project Results
 - ✅ Trained on **82,486 real emails**
